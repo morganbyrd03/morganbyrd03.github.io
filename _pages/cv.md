@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mechanical Engineering, Vanderbilt University, 2018
-* M.S. in Robotics, Georgia Institute of Technology, 2023
 * Ph.D in Robotics, Georgia Institute of Technology, 2028 (expected)
+* * M.S. in Robotics, Georgia Institute of Technology, 2023
+* B.S. in Mechanical Engineering, Vanderbilt University, 2018
+
 
 Work experience
 ======
-* Parsons Corporation: Associate Aerospace Engineer -- June 2018 - April 2020
-
 * Dynetics: Mechanical Engineer 3 -- April 2020 - April 2021
+* Parsons Corporation: Associate Aerospace Engineer -- June 2018 - April 2020
   
 
