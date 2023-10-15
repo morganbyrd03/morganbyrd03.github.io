@@ -17,12 +17,8 @@ Education
 
 Work experience
 ======
-* June 2018 - April 2020: Associate Aerospace Engineer
-  * Parsons Corporation
-  * Duties included: Writing code for physics simulations
+* Parsons Corporation: Associate Aerospace Engineer -- June 2018 - April 2020
 
-* April 2020 - April 2021: Mechanical Engineer 3
-  * Dynetics
-  * Duties included: Writing code for physics simulations
+* Dynetics: Mechanical Engineer 3 -- April 2020 - April 2021
   
 
