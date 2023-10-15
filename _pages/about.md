@@ -21,13 +21,12 @@ Publications
 Education
 ======
 * Ph.D in Robotics, Georgia Institute of Technology, 2028 (expected)
-* * M.S. in Robotics, Georgia Institute of Technology, 2023
+* M.S. in Robotics, Georgia Institute of Technology, 2023
 * B.S. in Mechanical Engineering, Vanderbilt University, 2018
 
 
 Work experience
 ======
 * Georgia Institute of Technology: Research Assistant -- May 2022 - Present
-
 * Dynetics: Mechanical Engineer 3 -- April 2020 - April 2021
 * Parsons Corporation: Associate Aerospace Engineer -- June 2018 - April 2020
