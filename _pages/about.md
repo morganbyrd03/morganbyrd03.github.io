@@ -27,6 +27,6 @@ Education
 
 Work experience
 ======
-* Georgia Institute of Technology: Research Assistant -- May 2022 - Present
-* Dynetics: Mechanical Engineer 3 -- April 2020 - April 2021
-* Parsons Corporation: Associate Aerospace Engineer -- June 2018 - April 2020
+* Georgia Institute of Technology: Research Assistant            May 2022 - Present
+* Dynetics:                        Mechanical Engineer 3         April 2020 - April 2021
+* Parsons Corporation:             Associate Aerospace Engineer  June 2018 - April 2020 
