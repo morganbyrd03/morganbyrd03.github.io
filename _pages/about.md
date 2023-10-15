@@ -14,7 +14,8 @@ I am a first year PhD student at the Georgia Institute of Technology advised by 
 Publications
 ======
 PrivilegedDreamer: Explicit Imagination of Privileged Information for Adaptation in Uncertain Environments
-Under review: 2023
+
+* Under review: 2023
 
 Education
 ======
