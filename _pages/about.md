@@ -13,10 +13,8 @@ I am a first year PhD student at the Georgia Institute of Technology advised by 
 
 Publications
 ======
-{% include base_path %}
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+PrivilegedDreamer: Explicit Imagination of Privileged Information for Adaptation in Uncertain Environments
+Under review: 2023
 
 Education
 ======
