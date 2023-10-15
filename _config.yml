@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Morgan Byrd"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Morgan Byrd"
 description              : &description "personal description"
