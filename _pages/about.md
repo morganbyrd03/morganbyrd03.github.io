@@ -11,12 +11,6 @@ redirect_from:
 I am a first year PhD student at the Georgia Institute of Technology advised by Professor [Sehoon Ha](https://faculty.cc.gatech.edu/~sha9/). My research interests are in reinforcement learning and robotics, particularly model-based reinforcement learning and robot locomotion.
 
 
-Publications
-======
-PrivilegedDreamer: Explicit Imagination of Privileged Information for Adaptation in Uncertain Environments
-
-* Under review: 2023
-
 Education
 ======
 * Ph.D in Robotics, Georgia Institute of Technology, 2028 (expected)
